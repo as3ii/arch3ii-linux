@@ -64,6 +64,8 @@ wpa_supplicant
 wvdial
 xl2tpd
 i3-gaps
+i3status
+i3lock
 xorg
 xorg-xinit
 vim
@@ -72,6 +74,7 @@ firefox
 nemo
 alsa
 alsa-utils
+htop
 nmon
 networkmanager
 neofetch
