@@ -1,0 +1,2 @@
+[2019-08-16 15:11] [PACMAN] Running 'pacman -r work/x86_64/airootfs -Sy --noconfirm --config=work/pacman.conf base syslinux'
+[2019-08-16 15:11] [PACMAN] synchronizing package lists

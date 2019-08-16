@@ -1,0 +1,3 @@
+[submodule "airootfs/root/.config"]
+	path = airootfs/root/.config
+	url = https://github.com/as3ii/dotfiles.git
