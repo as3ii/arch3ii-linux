@@ -73,3 +73,5 @@ nemo
 alsa
 alsa-utils
 nmon
+networkmanager
+neofetch
