@@ -65,7 +65,7 @@ wvdial
 xl2tpd
 i3-gaps
 xorg
-xinit
+xorg-xinit
 vim
 devtools
 firefox
