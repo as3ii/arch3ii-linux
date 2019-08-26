@@ -68,7 +68,7 @@ i3status
 i3lock
 xorg
 xorg-xinit
-vim
+gvim
 devtools
 firefox
 nemo
